@@ -1,3 +1,3 @@
-$('#btn').click(function(){
-    $('.par').animate({left: '250px'});
+$('.section__header').click(function(){
+    $('.section__content').show();
 })
